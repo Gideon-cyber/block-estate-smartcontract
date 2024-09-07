@@ -1,0 +1,13 @@
+{
+  "name": "block-estate-smartcontract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Gideon-cyber/block-estate-smartcontract.git",
+  "author": "Gideon Nwokpor <gideonjohnson70@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "hardhat": "^2.22.10"
+  }
+}
